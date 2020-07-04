@@ -13,6 +13,7 @@ Social upload files 03 / Julio / 2020
 Version 1.2
 version beta, falta autorización por parte de la ingeniera.
 completa (beta)
+03 / Julio / 2020
 
 ```
 
