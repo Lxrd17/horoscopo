@@ -15,6 +15,7 @@ a{
 }
 p{
   font-size: 19px;
+  margin-bottom: 14px;
 }
 .h1-seo2{
   color: var(--blanco);
@@ -47,7 +48,7 @@ p{
   color: var(--blanco);
   margin-bottom: 2%;
 }
-.aries img{
+img{
   margin-bottom: 10px;
 }
 @media(max-width: 500px){
