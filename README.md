@@ -1,6 +1,6 @@
 # Horóscopo
 ## Rama de index
-### Versión 1.2
+### Versión 1.3
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -13,6 +13,12 @@ Social upload files 03 / Julio / 2020
 Version 1.2
 version beta, falta autorización por parte de la ingeniera.
 completa (beta)
+03 / Julio / 2020
+
+```
+```
+Version 1.3
+Organización de la consulta
 03 / Julio / 2020
 
 ```
